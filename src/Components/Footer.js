@@ -1,8 +1,8 @@
 import React from 'react';
 import {
   Heart,
-  Facebook,
-  Instagram,
+  Dribbble,
+  Codepen,
   GitHub,
   Twitter,
   Linkedin,
@@ -17,25 +17,25 @@ const Footer = () => {
       <div className='column'>
         <div className='buttons is-centered'>
           <a
-            href='https://www.facebook.com/binu.kumar.90857'
+            href='https://www.dribbble.com/uvacoder'
             target='_blank'
             rel='noopener noreferrer'
             className='button button-special is-rounded box-shadow-lift'
-            data-tip='connect on Facebook 🦸‍♂'
+            data-tip='connect on Dribbble 🦸‍♂'
           >
             <Facebook color='blue' className='icon' />
           </a>
           <a
-            href='https://www.instagram.com/krbinu42/'
+            href='https://www.codepen.io/uvacoder/'
             target='_blank'
             rel='noopener noreferrer'
             className='button button-special is-rounded box-shadow-lift'
-            data-tip='connect on Instagram 🎉'
+            data-tip='connect on Codepen 🎉'
           >
             <Instagram color='#C74B91' className='icon' />
           </a>
           <a
-            href='https://github.com/Binu42'
+            href='https://github.com/uvacoder'
             target='_blank'
             rel='noopener noreferrer'
             className='button button-special is-rounded box-shadow-lift'
@@ -44,7 +44,7 @@ const Footer = () => {
             <GitHub className='icon' />
           </a>
           <a
-            href='https://twitter.com/kbinu42'
+            href='https://twitter.com/AlecCam43544378'
             target='_blank'
             rel='noopener noreferrer'
             className='button button-special is-rounded box-shadow-lift'
@@ -53,7 +53,7 @@ const Footer = () => {
             <Twitter color='#1DA1F2' className='icon' />
           </a>
           <a
-            href='https://www.linkedin.com/in/binukumar/'
+            href='https://www.linkedin.com/in/alecbcampbell/'
             target='_blank'
             rel='noopener noreferrer'
             className='is-hidden-touch button button-special is-rounded box-shadow-lift'
