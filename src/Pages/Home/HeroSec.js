@@ -23,7 +23,7 @@ const HeroSec = () => {
             <Contributor />
             <div className="column fadeInUp" style={{ animationDelay: "1s" }}>
               <a
-                href="https://github.com/WebDevsCom/webDevsCom"
+                href="https://github.com/uvacoder/webDevCom"
                 className="button button-special box-shadow-lift is-large is-rounded"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -50,7 +50,7 @@ const HeroSec = () => {
             <Contributor />
             <div className="column fadeInUp" style={{ animationDelay: "1s" }}>
               <a
-                href="https://github.com/WebDevsCom/webDevsCom"
+                href="https://github.com/uvacoder/webDevCom"
                 className="button button-special box-shadow-lift is-large is-rounded"
                 target="_blank"
                 rel="noopener noreferrer"
