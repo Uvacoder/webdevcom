@@ -90,7 +90,7 @@ const Navbar = () => {
             className='navbar-item'
             rel='noopener noreferrer'
             target='_blank'
-            href='https://github.com/WebDevsCom/webDevsCom/graphs/contributors'
+            href='https://github.com/uvacoder/webDevCom/graphs/contributors'
           >
             Contributors
           </a>
