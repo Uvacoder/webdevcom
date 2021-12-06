@@ -23,7 +23,7 @@ const Footer = () => {
             className='button button-special is-rounded box-shadow-lift'
             data-tip='connect on Dribbble 🦸‍♂'
           >
-            <Facebook color='blue' className='icon' />
+            <Dribbble color='blue' className='icon' />
           </a>
           <a
             href='https://www.codepen.io/uvacoder/'
@@ -32,7 +32,7 @@ const Footer = () => {
             className='button button-special is-rounded box-shadow-lift'
             data-tip='connect on Codepen 🎉'
           >
-            <Instagram color='#C74B91' className='icon' />
+            <Codepen color='#C74B91' className='icon' />
           </a>
           <a
             href='https://github.com/uvacoder'
@@ -76,7 +76,7 @@ const Footer = () => {
             target='_blank'
             rel='noopener noreferrer'
           >
-            By Binu Kumar
+            By uvacoder
           </a>{' '}
           <br />
           &copy;{new Date().getFullYear()}
